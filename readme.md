@@ -1,7 +1,7 @@
 # Activation Impact on MLP
 
 ## Overview
-This task involves modifying the original Multi-Layer Perceptron (MLP) architecture by adding an additional hidden layer. The primary objective is to compare the performance of the modified model with the original architecture and analyze the effect of increased complexity on model accuracy and validation performance.
+This repo involves modifying the original Multi-Layer Perceptron (MLP) architecture by adding an additional hidden layer. The primary objective is to compare the performance of the modified model with the original architecture and analyze the effect of increased complexity on model accuracy and validation performance.
 
 ## Original Architecture
 - **Flatten Layer**: Converts input data into a 1D array.
@@ -27,10 +27,10 @@ The results for the MNIST, Fashion MNIST, and CIFAR-10 datasets were evaluated, 
 
 ---
 
-## Task 2: Replacing Activation Functions
+## Replacing Activation Functions
 
 ### Overview
-This task focuses on replacing the ReLU activation function in the hidden layers with alternatives such as **tanh** and **sigmoid**. The primary goal is to compare their impact on accuracy and training performance.
+This part focuses on replacing the ReLU activation function in the hidden layers with alternatives such as **tanh** and **sigmoid**. The primary goal is to compare their impact on accuracy and training performance.
 
 ### ReLU Activation
 - **Advantages**: Simplicity and efficiency in deep models.
