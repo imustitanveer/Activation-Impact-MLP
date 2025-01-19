@@ -1,4 +1,4 @@
-# Task 1: Adding an Additional Hidden Layer to the MLP Model
+# Activation Impact on MLP
 
 ## Overview
 This task involves modifying the original Multi-Layer Perceptron (MLP) architecture by adding an additional hidden layer. The primary objective is to compare the performance of the modified model with the original architecture and analyze the effect of increased complexity on model accuracy and validation performance.
